@@ -1,0 +1,26 @@
+2025-05-12 10:31:49 - Request data: Array
+(
+    [id_retur] => 1
+    [status] => Retur Ditolak
+)
+2025-05-12 10:31:49 - Error: Table 'rumah_sulam.log_status_retur' doesn't exist2025-05-12 10:34:33 - Request data: Array
+(
+    [id_retur] => 1
+    [status] => Retur Ditolak
+)
+2025-05-12 10:34:33 - Error: Table 'rumah_sulam.log_status_retur' doesn't exist2025-05-12 10:37:35 - Request data: Array
+(
+    [id_retur] => 1
+    [status] => Retur Diterima - Transfer Bank
+)
+2025-05-12 11:00:26 - Request data: Array
+(
+    [id_retur] => 1
+    [status] => Retur Ditolak
+)
+2025-05-12 11:00:26 - Error: Unknown column 'status_lama' in 'field list'2025-05-12 11:06:07 - Request data: Array
+(
+    [id_retur] => 1
+    [status] => Retur Ditolak
+)
+2025-05-12 11:06:07 - Error: Unknown column 'status_lama' in 'field list'
